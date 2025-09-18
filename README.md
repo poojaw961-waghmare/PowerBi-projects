@@ -17,3 +17,7 @@ This project demonstrates expertise in **data modeling, DAX, Power Query, and ad
 - Interactive dashboard design (line, pie, geo-heat map)  
 - Automated data refresh workflows  
 - Data storytelling using financial/payment datasets  
+## 📌 Author
+👤 Pooja Ram Waghmare
+📧 poojaw961@gmail.com 
+🔗 www.linkedin.com/in/pooja-waghmare-178774267
